@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorbayari" alt="noorbayari" /> </p>
 
- <img src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="Coder GIF" width="500" height="400">
+ <img src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="Coder GIF" width="1000">
 
 - 🌱 I’m currently learning **nodeJS, express, react,**
 
