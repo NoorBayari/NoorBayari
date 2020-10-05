@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **bayarinh@gmail.com**
 
+- Latest Projects: https://noorbayari.github.io/simon-game/ - https://noorbayari.github.io/TinDog/ - https://noorbayari.github.io/DrumKit/
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/noorbayari1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="noorbayari1" height="30" width="40" /></a>
