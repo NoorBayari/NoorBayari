@@ -5,7 +5,7 @@
 
  <img src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="Coder GIF"  width="750">
 
-- 🌱 I’m currently learning **nodeJS, express, react,**
+- 🌱 I’m currently learning **nodeJS, express, react**
 
 - 👯 I’m looking to collaborate on **full-stack projects using the MERN stack**
 
