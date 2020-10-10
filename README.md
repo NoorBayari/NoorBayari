@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bayarinh@gmail.com**
 
-- Latest Projects: https://noorbayari.github.io/simon-game/ - https://noorbayari.github.io/TinDog/ - https://noorbayari.github.io/DrumKit/
+- Latest Projects: https://polar-thicket-21963.herokuapp.com/ - https://noorbayari.github.io/simon-game/ - https://noorbayari.github.io/TinDog/ - https://noorbayari.github.io/DrumKit/
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
