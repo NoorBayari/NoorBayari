@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/NoorBayari/NoorBayari/blob/main/devcard.svg" width="400" alt="Noor Aldeen Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Noor Aldeen</h1>
 <h3 align="center">A full-stack developer from Jordan.</h3>
 
